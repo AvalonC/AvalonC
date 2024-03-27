@@ -1,5 +1,5 @@
 ### Hi there, I'm AvalonC 👋
-A Product manager but also full-stack developer（amateur）
+A Product manager but also a full-stack developer（amateur）
 
 ![Static Badge](https://img.shields.io/badge/Java-%23000000?style=flat-square&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white)
@@ -15,4 +15,5 @@ A Product manager but also full-stack developer（amateur）
 
 ### Current working
 - CityU Schedule Planner
-- BIS Navigator
+- [BIS Navigator](https://avalonc.github.io/MScBIS/)
+- [Navigator_Jyutping](https://avalonc.github.io/navigator_jyutping/)
